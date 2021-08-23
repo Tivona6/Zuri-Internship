@@ -1,2 +1,2 @@
-# Zuri-intership
+# Zuri-internship
  
