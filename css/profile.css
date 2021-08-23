@@ -1,0 +1,87 @@
+body {background-color: lavender;
+    background-size: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding:0;
+    font-family: Varela-Regular;
+   }
+ nav .container{
+    background:rgb(5,32,32);
+    width: 25%;
+    flex: left;
+    min-height: 1200px;
+     position: relative;
+ }
+ .fami .avater img{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    border-radius: 50%;
+  box-sizing: border-box;
+}
+ .fami p{
+    margin-top: 3%;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+.fami .nav-s{
+     padding:20px 20px 20px 40px;
+     border-bottom: 1px solid rgb(97, 96, 96);
+     }
+.fami a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .fami .link img{
+   height: 40px;
+   padding-left: 40px;
+   width: 40px;
+   display: flex;
+   border-radius: 5%;
+}
+ .fami .logo img{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    border-radius: 50%;
+    margin-top: 40%;
+  box-shadow: 2px 2px 2px #ed7a07;
+}
+.fami .link a{
+   padding-right: 80%;
+   display: flex; 
+}
+.fami .link a:hover{
+    color: #ed7a07;
+    }
+section .sec-main{
+     width: 75%;
+     margin-top:-1200px;
+     float:right;
+     min-height: 1200px;
+}
+.para .profile{
+    padding-top: 1px;
+    padding-left: 20px;
+    padding-bottom: 1px;
+    box-shadow: 3px 3px 3px #777777;
+    color: rgb(5,32,32); 
+    text-shadow: 2px 2px 2px white;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+} 
+ .para h3{
+    padding-left: 15px;
+ }
+ .para p{
+    padding-left: 10px; 
+ }
+ .para i{
+    padding-left: 10px; 
+ }
+  
+ 
